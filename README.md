@@ -1,2 +1,2 @@
 # Grid
-Creating and experimenting  grid templates 
+Creating and experimenting with grid templates 

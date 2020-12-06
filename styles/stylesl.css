@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(image/fullmoon.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.hfrom{
+    text-align: center;
+}
+h1{
+    color: lightblue;
+    font-size: 50px;
+}
+h2{
+    color: lightblue;
+    font-size: 30px;
+}
+.fcontainer{
+    margin-top: 5rem;
+    width: fit-content;
+    height: 25vh;
+    background-color: #696969;
+    border: 2px solid blue;
+   font-weight: bolder;
+}
+@media(min-width:450px){
+    .fcontainer{
+        margin-left: 40%;
+    }
+    
+}
+li{
+    list-style-type: none;
+   
+}
+li{
+    padding-right: 10px;
+    margin-top: 10px;
+
+}
+button{
+    background-color: lightblue;
+   float:right;
+   border-radius: 20px;
+    
+}
+button:hover{
+    background-color: blue;
+    font-weight: bolder;
+}
+a:hover{
+  color: blue;  
+}
